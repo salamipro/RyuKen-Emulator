@@ -1,0 +1,14 @@
+RyuKen Emulator
+Controls > 
+[O] - pause (press repeatedly to advance 1 frame)
+[P] - resume
+[CTRL] - Insert coin
+[ENTER] - Start
+[A] - Hard punch
+[S] - Medium punch
+[D] - Light punch
+[Z] - Hard kick
+[X] - Medium kick
+[C] - Light kick
+[ESC] - Close Emulator System
+[← → ↑ ↓] - Move, Jump, Crouch
