@@ -1,5 +1,3 @@
-RyuKen Emulator
-Controls > 
 [O] - pause (press repeatedly to advance 1 frame)
 [P] - resume
 [CTRL] - Insert coin
